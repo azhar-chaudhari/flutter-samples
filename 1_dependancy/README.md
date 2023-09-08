@@ -52,3 +52,9 @@ dependency_overrides:
 ```bash
 flutter pub remove <package-name>
 ```
+
+
+## Generates localization files:
+```bash
+flutter gen-l10n
+```
